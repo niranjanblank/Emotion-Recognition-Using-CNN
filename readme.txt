@@ -1,0 +1,2 @@
+emotion_detector_v1.h5 has been trained using data set './Data/EmotionData' which has 7 classes(anger, contempt, disgust, fear, happy, sadness, surprise)
+emption_detector_v2.h5 has been trainned using data set './Data/EmotionData2' which has 4 classes(anger, happy, sadness, surprise)
